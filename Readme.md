@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, Soy Juan Camilo Cuervo Trujillo</h1>
 - 🔭 I’m currently working on [henry-equipo-ocho](https://github.com/henry-equipo-ocho)
 
-- 🌱 I’m currently learning **Material UI**
-
 - 📫 How to reach me **juancho.cuervo@hotmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/juan-cuervo-t/](https://www.linkedin.com/in/juan-cuervo-t/)
